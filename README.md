@@ -179,3 +179,8 @@ Please, make sure all steps are using **the same** python version and that you h
 ## License
 
 [License](LICENSE.txt)
+
+
+## WanDB link for project
+
+https://wandb.ai/zachary-t-middleton-wgu/nyc_airbnb/table?nw=nwuserzacharytmiddleton
